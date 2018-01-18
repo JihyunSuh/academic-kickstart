@@ -1,11 +1,11 @@
 +++
-title = "A publication title, such as title of a paper"
+title = "Tool use produces a size illusion revealing action-specific perceptual mechanisms"
 
 # Date first published.
-date = "2013-07-01"
+date = "2018-02-28"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["First author's name", "Second author's name"]
+authors = ["Jihyun Suh", "Richard A. Abrams"]
 
 # Publication type.
 # Legend:
@@ -19,12 +19,18 @@ authors = ["First author's name", "Second author's name"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *International Conference on Academic*. You may use *Markdown* for italics etc."
-publication_short = "In *ICA*"
+publication = "Acta Psychologica"
+publication_short = "Acta Psychol"
 
 # Abstract and optional shortened version.
-abstract = "The abstract. Markdown and math can be used (note that math may require escaping as detailed in the red alert box below)."
-abstract_short = "A short version of the abstract."
+abstract = "In four experiments, participants estimated the sizes of target objects that were 
+either out of reach, or that could be reached by a tool (a stylus or laser pointer). Objects 
+reachable with the aid of a tool were perceived to be smaller than identical objects without a 
+tool. Participants' responses to questioning rule out demand characteristics as an 
+explanation. This new size illusion may reflect a direct impact of tool use on perceived size, 
+or it may stem from the effects of tool use on perceived distance. Both possibilities support 
+action specific accounts of perception."
+# abstract_short = "A short version of the abstract."
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -62,7 +68,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "headers/bubbles-wide.jpg"
+image = "point.jpg"
 caption = "My caption 😄"
 
 +++
