@@ -11,8 +11,9 @@ weight = 5
 [interests]
   interests = [
     "Visual perception",
-    "Human visuo-motor interaction",
+    "Action-based visual perception",
     "Visual working memory"
+    "Human Ergonomics"
   ]
 
 # List your qualifications (such as academic degrees).
