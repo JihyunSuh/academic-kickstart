@@ -40,4 +40,4 @@ weight = 5
 +++
 
 # Biography
-Hello, I am a PhD candidate in Psychology.
+Hello, I am a PhD candidate in Psychology. I'm studying visual perception.
