@@ -13,7 +13,6 @@ weight = 5
     "Visual perception",
     "Action-based visual perception",
     "Visual working memory",
-    "Human Ergonomics"
   ]
 
 # List your qualifications (such as academic degrees).
