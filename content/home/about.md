@@ -12,7 +12,7 @@ weight = 5
   interests = [
     "Visual perception",
     "Action-based visual perception",
-    "Visual working memory"
+    "Visual working memory",
     "Human Ergonomics"
   ]
 
